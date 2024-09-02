@@ -5,8 +5,7 @@
                 <NuxtLink to="/" class="font-bold">BMKG </NuxtLink>
                 <ul class="flex gap-4">
                     <li><NuxtLink to="/">Home</NuxtLink></li>
-                    <li><NuxtLink to="/about">Map Interactive</NuxtLink></li>
-                    <li><NuxtLink to="/products">Blog</NuxtLink></li>
+                    <li><NuxtLink to="/about">Blog</NuxtLink></li>
                 </ul>
                 <ul class="flex gap-4">
                     <li><NuxtLink to="/">Login</NuxtLink></li>
